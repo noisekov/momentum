@@ -1,0 +1,70 @@
+[
+    {
+        "text": "Write code as if it were accompanied by a violent psychopath who knows where you live",
+        "author": "Steve McConnell"
+    },
+    {
+        "text": "Program complexity grows until it exceeds the programmer's ability",
+        "author": "Arthur Bloch. Murphy's Laws"
+    },
+    {
+        "text": "Programming today is a race of software developers striving to write programs with more and better idiot resistance, and the universe trying to create more select idiots. As long as the universe wins.",
+        "author": "Rick Cook"
+    },
+    {
+        "text": "Walking on water and developing software following the ToR is very easy... if it's frozen",
+        "author": "I. Berard"
+    },
+    {
+        "text": "C programming is like fast dancing on a freshly polished floor of people with sharp razors in their hands.",
+        "author": "Waldi Ravens"
+    },
+    {
+        "text": "Don't worry if something doesn't work. If everything worked, you'd be fired.",
+        "author": "Mosher's Law of Software Engineering"
+    },
+    {
+        "text": "To write clean code, we first write dirty code and then refactor it.",
+        "author": "Robert Martin"
+    },
+    {
+        "text": "Sometimes it's better to stay home on Monday than to spend the whole week debugging code written on Monday.",
+        "author": "Christopher Thompson"
+    },
+    {
+        "text": "We're seeing a society that is increasingly dependent on machines, but uses them more and more inefficiently.",
+        "author": "Douglas Rushkoff"
+    },
+    {
+        "text": "Programming is about breaking something big and impossible into something small and quite real.",
+        "author": "jazzwant"
+    },
+    {
+        "text": "Does it work? Don't touch it.",
+        "author": "Any programmer"
+    },
+    {
+        "text": "People think security is a noun, something you can buy. In reality, security is an abstract concept, like happiness.",
+        "author": "James Gosling"
+    },
+    {
+        "text": "I think this will be a new feature. Just don't tell anyone that it came about by accident.",
+        "author": "Larry Wall"
+    },
+    {
+        "text": "Laziness is the main virtue of a programmer.",
+        "author": "Larry Wall"
+    },
+    {
+        "text": "It's easier to invent the future than predict it.",
+        "author": "Alan Kay"
+    },
+    {
+        "text": "Magic ceases to exist once you understand how it works.",
+        "author": "Tim Berners-Lee"
+    },
+    {
+        "text": "Measuring a programmer's productivity by counting lines of code is like judging an aircraft's build by its weight.",
+        "author": "Bill Gates"
+    }
+]
